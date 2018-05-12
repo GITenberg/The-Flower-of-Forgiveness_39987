@@ -1,0 +1,34 @@
+_repo: The-Flower-of-Forgiveness_39987
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Steel, Flora Annie Webster
+    alias: Steel, F. A. (Flora Annie)
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '1973'
+    url: http://www.gutenberg.org/2009/agents/1973
+    wikipedia: http://en.wikipedia.org/wiki/Flora_Annie_Steel
+description: ''
+gutenberg_issued: '2012-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39987'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Fiction'
+- !lcsh 'British -- India -- Fiction'
+- !lcsh 'Short stories, English'
+tableOfContents: The flower of forgiveness -- Harvest -- For the faith -- The bhut-baby
+  -- Râmchunderji -- Heera Nund -- Feroza -- In the house of a coppersmith -- Faizullah
+  -- The footsteps of death -- Habitual criminals -- Mussumât Kirpo's doll -- "London"
+  -- Lâl -- A debt of honour -- The village legacy.
+title: The Flower of Forgiveness
+url: http://www.gutenberg.org/ebooks/39987
